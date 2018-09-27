@@ -5,17 +5,9 @@
  */
 package dungeoncrawl;
 
-/**
- *
- * @author Rune1
- */
 public class DungeonCrawl {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+    
+    public static void main(String[] args) {        
     }
     
 }
